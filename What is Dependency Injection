@@ -1,0 +1,4 @@
+The process of injecting one bean objects into a target bean objects is known as Dependency injection
+It is of 2 types
+Setter Injection -> IOC container injects bean object into the target bean object using setter method
+Constructor Injection -> IOC container injects bean object into the target bean Object using constructor method
