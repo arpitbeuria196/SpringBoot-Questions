@@ -1,0 +1,4 @@
+IOC Container stands for inversion Of Control 
+It manages the creation and deletion of an bean object .
+Complete life cycle of an object is handled by IOC container
+It is also responsible for dependency Injection
